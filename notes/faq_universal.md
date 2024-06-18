@@ -1,0 +1,13 @@
+- This build already includes updated and adjusted firmware to ensure proper functionality. There is no need to flash an additional version. If something does not work correctly after this, it is literally your own fault.
+- Use [Orangefox](https://www.pling.com/p/1983103/) (personal note) as the recovery to flash this build.
+- Regarding firmware, please do not flash MakiUI where it explicitly states it is not for Willow, as this may brick your device. Support for this device was dropped months ago.
+- I am not sure which kernels are compatible, as I do not test everything available.
+- DT2S (lock screen) may not work well, but this could be related to the default kernel of the build, which I will investigate further in the future.
+- Google will identify (your Redmi Note 8) the device as "Pixel 8 Pro". If another device appears in your login session, blame Google, not me, or review your previous sessions and backups.
+- A clean installation is always recommended. You can try a dirty flash, but it is at your own risk.
+- Safetynet (basic level) passes by default, but you may need to use a module to certify the required levels.
+- The use of Magisk is optional.
+- If MakiUI does not boot and stays on the Redmi logo (for a long, long time), you may need to flash [Permissiver](https://www.pling.com/p/1983103/).
+- You can flash this ROM as with any other ROM.
+- Note that I am always trying to improve and fix the builds, unlike other projects where the only changelog is "added wallpapers" as a main feature.
+- **Your feedback can help in the development of this project**.
